@@ -8,7 +8,7 @@
 ## Contents
 
 - [Jupyter Projects](#jupyter-projects)
-- [Extensions and Plug-ins(#extensions-and-plugins)
+- [Extensions and Plug-ins](#extensions-and-plugins)
 - [Curriculum examples](#curriculum-examples)
 - [Papers](#papers)
 - [Talks](#talks)
@@ -18,8 +18,19 @@
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Jupyter Notebook (also known as *Classic notebook* and *IPython notebook*](https://jupyter.org)
+- [JupyterLab]()
+- [JupyterHub]()
+- [nbgrader]()
+- [mybinder.org]()
+
+## Notebook offerings
+
+- nteract.io
+- Hydrogen
+- Azure Notebooks
+- CoCalc (free plan)
+- Collaboratory
 
 ## Extensions and Plug-ins
 
