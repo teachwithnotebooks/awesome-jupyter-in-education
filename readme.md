@@ -24,6 +24,8 @@ About this section. Optional. Keep this short and focus on the list.
 - [nbgrader]()
 - [mybinder.org]()
 
+[Back to contents](#contents)
+
 ## Notebook offerings
 
 - nteract.io
@@ -32,31 +34,42 @@ About this section. Optional. Keep this short and focus on the list.
 - CoCalc (free plan)
 - Collaboratory
 
+[Back to contents](#contents)
+
 ## Extensions and Plug-ins
 
+[Back to contents](#contents)
 
 ## Curriculum Examples
 
+[Back to contents](#contents)
+
 ### General
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+
+[Back to contents](#contents)
 
 ## Papers
 
+[Back to contents](#contents)
+
 ### Academic Research
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+[Back to contents](#contents)
 
 ### Blog posts
 
+[Back to contents](#contents)
+
 ## Talks
+
+[Back to contents](#contents)
 
 ## Resources
 
 - Jupyter in Education mailing list
 
+[Back to contents](#contents)
 
 ## Contribute
 
