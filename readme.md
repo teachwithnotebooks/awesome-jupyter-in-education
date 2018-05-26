@@ -1,28 +1,50 @@
 # Awesome Jupyter In Education [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Jupyter projects used in education as well as awesome examples, useful extensions, and helpful tips
+> A curated list of Jupyter projects used in education as well as how to use Jupyter when teaching, 
+> including excellent examples, useful extensions, and helpful tips. This list is limited to projects
+> that are open source and free to the user since we wish to promote accessibility of education for all.
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Jupyter Projects](#jupyter-projects)
+- [Extensions and Plug-ins(#extensions-and-plugins)
+- [Curriculum examples](#curriculum-examples)
+- [Papers](#papers)
+- [Talks](#talks)
 
 
-## Section
+## Jupyter Projects
 
 About this section. Optional. Keep this short and focus on the list.
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
+## Extensions and Plug-ins
 
-## Another Section
 
-### Subsection
+## Curriculum Examples
+
+### General
 
 - [List item](http://example.com)
 - [List item](http://example.com)
+
+## Papers
+
+### Academic Research
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+### Blog posts
+
+## Talks
+
+## Resources
+
+- Jupyter in Education mailing list
 
 
 ## Contribute
