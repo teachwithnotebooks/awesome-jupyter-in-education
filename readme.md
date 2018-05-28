@@ -38,6 +38,9 @@ About this section. Optional. Keep this short and focus on the list.
 
 ## Extensions and Plug-ins
 
+- [RISE](https://github.com/damianavila/RISE): Turn your notebooks into a Reveal.JS presentation. Execute code during
+  a live talk without leaving the presentation.
+
 [Back to contents](#contents)
 
 ## Curriculum Examples
